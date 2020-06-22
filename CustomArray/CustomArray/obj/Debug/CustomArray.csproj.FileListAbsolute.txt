@@ -1,0 +1,10 @@
+C:\data\Projects\CustomArray\CustomArray\obj\Debug\CustomArray.csprojAssemblyReference.cache
+C:\data\Projects\CustomArray\CustomArray\bin\Debug\CustomArray.dll
+C:\data\Projects\CustomArray\CustomArray\bin\Debug\CustomArray.pdb
+C:\data\Projects\CustomArray\CustomArray\obj\Debug\CustomArray.dll
+C:\data\Projects\CustomArray\CustomArray\obj\Debug\CustomArray.pdb
+C:\data\Projects\epam\CustomArray\CustomArray\bin\Debug\CustomArray.dll
+C:\data\Projects\epam\CustomArray\CustomArray\bin\Debug\CustomArray.pdb
+C:\data\Projects\epam\CustomArray\CustomArray\obj\Debug\CustomArray.csprojAssemblyReference.cache
+C:\data\Projects\epam\CustomArray\CustomArray\obj\Debug\CustomArray.dll
+C:\data\Projects\epam\CustomArray\CustomArray\obj\Debug\CustomArray.pdb

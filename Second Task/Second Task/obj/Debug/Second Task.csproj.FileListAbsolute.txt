@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\bin\Debug\Second Task.exe.config
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\bin\Debug\Second Task.exe
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\bin\Debug\Second Task.pdb
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\obj\Debug\Second Task.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\obj\Debug\Second Task.exe
+C:\Users\maksi\Desktop\Практика\Second Task\Second Task\obj\Debug\Second Task.pdb

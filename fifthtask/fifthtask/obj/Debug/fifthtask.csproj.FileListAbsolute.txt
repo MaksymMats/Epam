@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\bin\Debug\fifthtask.exe.config
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\bin\Debug\fifthtask.exe
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\bin\Debug\fifthtask.pdb
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\obj\Debug\fifthtask.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\obj\Debug\fifthtask.exe
+C:\Users\maksi\Desktop\Практика\fifthtask\fifthtask\obj\Debug\fifthtask.pdb

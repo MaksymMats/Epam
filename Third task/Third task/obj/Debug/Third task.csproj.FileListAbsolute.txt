@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\Практика\Third task\Third task\bin\Debug\Third task.exe.config
+C:\Users\maksi\Desktop\Практика\Third task\Third task\bin\Debug\Third task.exe
+C:\Users\maksi\Desktop\Практика\Third task\Third task\bin\Debug\Third task.pdb
+C:\Users\maksi\Desktop\Практика\Third task\Third task\obj\Debug\Third task.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\Практика\Third task\Third task\obj\Debug\Third task.exe
+C:\Users\maksi\Desktop\Практика\Third task\Third task\obj\Debug\Third task.pdb
